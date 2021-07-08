@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahalamri01 (Ali Alamri)
-- I’m interested in ... how the brain makes decisions using incoming stimuli and stored information (memories). 
+- I’m interested in ... how we learn and makes decisions using incoming stimuli and stored information (memories).
 - I’m currently learning ... how to become a better scientist pursuing a PhD in Computational Neuroscience. 
 - I’m looking to collaborate on ... devloping tools for processing and visualizing data. 
 - How to reach me ... email me at ahalamri@uchicago.edu
